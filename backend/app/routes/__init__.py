@@ -1,0 +1,3 @@
+"""
+EzeeStayy API Routes
+"""

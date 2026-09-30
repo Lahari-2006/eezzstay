@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Production build
+frontend/dist/
+dist/
+
+# System and logs
+*.log
+.DS_Store
+Thumbs.db
+.pytest_cache/
